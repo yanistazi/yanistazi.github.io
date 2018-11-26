@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Akihiko Nishimura"
+subtitle                 : "(Bayesian) Statistician / Computational Data Scientist"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
