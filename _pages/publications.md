@@ -6,6 +6,8 @@ author_profile: true
 
 - Nishimura, A. and Suchard, M. A. (2018) <br> Prior-preconditioned conjugate gradient for accelerated Gibbs sampling in "large n & large p" sparse Bayesian logistic regression models. [arXiv:1810.12437](https://arxiv.org/abs/1810.12437)
 
+- Duan, L. L., Young, A. L., Nishimura, A., and Dunson, D. B. (2018) <br> Bayesian Constraint Relaxation. [arXiv:1801.01525](https://arxiv.org/abs/1801.01525)
+
 - Nishimura, A., Dunson, D. B., and Lu, J. (2017) <br> Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods. [arXiv:1705.08510](https://arxiv.org/abs/1705.08510)
 
 - Yang, H., Nishimura, A., and Lu, Q. (2017) <br> Bayesian heteroscedastic matrix factorization for conversion rate prediction. [26th ACM International Conference on Information and Knowledge Management (CIKM 2017)](https://doi.org/10.1145/3132847.3133076)
