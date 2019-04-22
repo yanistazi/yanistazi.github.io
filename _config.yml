@@ -55,7 +55,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: 
   username               : &twitter
 facebook:
   username               :
@@ -114,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  twitter          : "AkiWestvillage"
 
 
 # Reading Files
