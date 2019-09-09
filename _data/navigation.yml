@@ -2,7 +2,7 @@
 main:
   - title: "Research"
     url: /research/
-    
+
   - title: "Publication"
     url: /publications/
 
@@ -11,6 +11,9 @@ main:
 
   - title: "Software"
     url: /software/
+
+  - title: "Teaching"
+    url: /teaching/
 
   # - title: "CV"
   #   url: /cv/
