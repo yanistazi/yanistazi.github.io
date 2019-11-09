@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Nishimura, A. and Suchard, M. A. (2019) <br>
+Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. <br>
+Preprint at [arXiv:1911.0216](https://arxiv.org/abs/1911.02160).
+
 - Ji, X. and Zhang, Z. and Holbrook, A. and Nishimura, A. and Fisher, A. and Baele, G. and Suchard, M. A. (2019) <br>
 Gradients do grow on trees: a linear-time *O(N)*-dimensional gradient for statistical phylogenetics. [arXiv:1905.12146](https://arxiv.org/abs/1905.12146)
 
@@ -34,8 +38,5 @@ Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
 ## In Preparation
 - Nishimura, A., Suchard, M. A., and Schuemie, M. J. <br>
 Scalable Bayesian sparse generalized linear models and survival analysis via curvature-adaptive Hamiltonian Monte Carlo for high-dimensional log-concave distributions.
-
-- Nishimura, A., Suchard, M. A. <br>
-Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler.
 
 - Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. <br> Dynamical Monte Carlo for accelerated Bayesian inference for phylogenetic multivariate probit models.
