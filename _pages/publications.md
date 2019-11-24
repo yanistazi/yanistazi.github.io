@@ -39,4 +39,4 @@ Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
 - Nishimura, A., Suchard, M. A., and Schuemie, M. J. <br>
 Scalable Bayesian sparse generalized linear models and survival analysis via curvature-adaptive Hamiltonian Monte Carlo for high-dimensional log-concave distributions.
 
-- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. <br> Dynamical Monte Carlo for accelerated Bayesian inference for phylogenetic multivariate probit models.
+- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. <br> Large-scale inference of correlations among mixed-type phenotypes with phylogenetic multivariate probit models.
