@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2019) <br> Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. <br>
+Preprint at [arXiv:1912.09185](https://arxiv.org/abs/1912.09185).
+
 - Nishimura, A. and Suchard, M. A. (2019) <br>
 Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. <br>
 Preprint at [arXiv:1911.0216](https://arxiv.org/abs/1911.02160).
@@ -38,5 +41,3 @@ Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
 ## In Preparation
 - Nishimura, A., Suchard, M. A., and Schuemie, M. J. <br>
 Scalable Bayesian sparse generalized linear models and survival analysis via curvature-adaptive Hamiltonian Monte Carlo for high-dimensional log-concave distributions.
-
-- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. <br> Large-scale inference of correlations among mixed-type phenotypes with phylogenetic multivariate probit models.
