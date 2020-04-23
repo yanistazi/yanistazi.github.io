@@ -4,6 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Nishimura, A., Dunson, D. B., and Lu, J. (2020) <br>
+Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods. <br>
+[*Biometrika*](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asz083/5799014?guestAccessKey=1ac16281-92cf-43a1-9152-1daa47026ca3).
+
+- Nishimura, A. and Dunson, D. B. (2020) <br>
+Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
+[*Bayesian Analysis*](https://projecteuclid.org/euclid.ba/1572055334).
+
+- Duan, L. L., Young, A. L., Nishimura, A., and Dunson, D. B. (2020) <br>
+Bayesian Constraint Relaxation. <br>
+[*Biometrika*](https://academic.oup.com/biomet/article-abstract/107/1/191/5686747?redirectedFrom=fulltext).
+
 - Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2019) <br> Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. <br>
 Preprint at [arXiv:1912.09185](https://arxiv.org/abs/1912.09185).
 
@@ -16,14 +28,6 @@ Gradients do grow on trees: a linear-time *O(N)*-dimensional gradient for statis
 
 - Nishimura, A. and Suchard, M. A. (2018) <br> Prior-preconditioned conjugate gradient for accelerated Gibbs sampling in "large n & large p" sparse Bayesian logistic regression models. [arXiv:1810.12437](https://arxiv.org/abs/1810.12437)
 
-- Duan, L. L., Young, A. L., Nishimura, A., and Dunson, D. B. (2018) <br>
-Bayesian Constraint Relaxation. <br>
-*Biometrika* (in press). Preprint at [arXiv:1801.01525](https://arxiv.org/abs/1801.01525).
-
-- Nishimura, A., Dunson, D. B., and Lu, J. (2017) <br>
-Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods. <br>
-*Biometrika* (in press). Preprint at [arXiv:1705.08510](https://arxiv.org/abs/1705.08510).
-
 - Yang, H., Nishimura, A., and Lu, Q. (2017) <br>
 Bayesian heteroscedastic matrix factorization for conversion rate prediction. <br>
 [26th ACM International Conference on Information and Knowledge Management (CIKM 2017)](https://doi.org/10.1145/3132847.3133076)
@@ -33,10 +37,6 @@ Variable trajectory length compressible Hamiltonian Monte Carlo. [arXiv:1604.008
 
 - Nishimura, A. and Dunson, D. B. (2016) <br>
 Geometrically tempered Hamiltonian Monte Carlo. [arXiv:1604.00872](https://arxiv.org/abs/1604.00872)
-
-- Nishimura, A. and Dunson, D. B. (2016) <br>
-Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
-*Bayesian Analysis* (in press). Preprint at [arXiv:1511.06925](https://arxiv.org/abs/1511.06925).
 
 ## In Preparation
 - Nishimura, A., Suchard, M. A., and Schuemie, M. J. <br>
