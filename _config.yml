@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Akihiko Nishimura"
-subtitle                 : "(Bayesian) Statistician / Computational Data Scientist"
+subtitle                 : "(Bayesian) Statistician / (Biomedical) Data Scientist"
 title_separator          : "-"
-name                     : &name "Akihiko Nishimura"
+name                     : &name "Akihiko (Aki) Nishimura"
 description              : &description "personal description"
 url                      : https://aki-nishimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: 
+twitter:
   username               : &twitter
 facebook:
   username               :
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Akihiko (Aki) Nishimura"
   avatar           : "aki_nishimura.jpg"
-  bio              : "Post-doctoral researcher in Department of Biomathematics at UCLA in Marc Suchard's group."
-  email            : "&#097;&#107;&#105;&#104;&#105;&#107;&#111;&#052;&#064;&#117;&#099;&#108;&#097;&#046;&#101;&#100;&#117;"
-  location         : "Los Angeles, CA"
+  bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
+  email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  location         : "Baltimore, MD"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
