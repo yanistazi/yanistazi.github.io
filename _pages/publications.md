@@ -45,7 +45,3 @@ Preprint at [arXiv:1604.00889](https://arxiv.org/abs/1604.00889).
 - Nishimura, A. and Dunson, D. B. (2016) <br>
 Geometrically tempered Hamiltonian Monte Carlo. <br>
 Preprint at [arXiv:1604.00872](https://arxiv.org/abs/1604.00872).
-
-## In Preparation
-- Nishimura, A., Suchard, M. A., and Schuemie, M. J. <br>
-Scalable Bayesian sparse generalized linear models and survival analysis via curvature-adaptive Hamiltonian Monte Carlo for high-dimensional log-concave distributions.
