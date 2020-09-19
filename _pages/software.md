@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Software
-- [bayesbridge v0.1](https://pypi.org/project/bayesbridge/)
+- [bayesbridge v0.2](https://bayes-bridge.readthedocs.io/en/latest/)
   <br> Python package for Bayesian sparse regression based on the Bayesian bridge priors. The package implements the standard (Polya-Gamma augmented) Gibbs sampler as well as the CG-accelerated sampler of [Nishimura & Suchard (2018)](https://arxiv.org/abs/1810.12437). Source code available at [my GitHub repository](https://github.com/aki-nishimura/bayes-bridge).
 
 ## Code
