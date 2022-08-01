@@ -1,47 +1,42 @@
 ---
-title: "Publications"
+title: "Representative Publications"
 permalink: /publications/
 author_profile: true
 ---
 
--	Koenecke, A., Powell, M., Xiong, R., Shen, Z., Fischer, N., Huq, S., Khalafallah, A. M., Trevisan, M., Sparen, P., Carrero, J. J., Nishimura, A., Caffo, B., Stuart, E. A., Bai, R., Staedtke, V., Papadopoulos, N., Kinzler, K. W., Vogelstein, B., Zhou, S., Bettegowda, C., Konig, M. F., Mensh, B., Vogelstein, J. T., Athey, S. (2020) <br>
-Alpha-1 adrenergic receptor antagonists to prevent hyperinflammation and death from lower respiratory tract infection. <br>
-Preprint at [arXiv:2004.10117](https://arxiv.org/abs/2004.10117).
+## Bayesian method and computation
 
-- Ji, X. and Zhang, Z. and Holbrook, A. and Nishimura, A. and Fisher, A. and Baele, G. and Suchard, M. A. (2020) <br>
-Gradients do grow on trees: a linear-time *O(N)*-dimensional gradient for statistical phylogenetics. <br>
-[*Molecular Biology and Evolution*](https://doi.org/10.1093/molbev/msaa130)
+- Nishimura, A. and Suchard, M. A. (2022) <br>
+  [Prior-preconditioned conjugate gradient method for accelerated Gibbs sampling in "large *n*, large *p*" Bayesian sparse regression](https://doi.org/10.1080/01621459.2022.2057859). <br>
+  *Journal of the American Statistical Association*.
+
+- Nishimura, A. and Suchard, M. A. (2022) <br>
+  [Shrinkage with shrunken shoulders: Gibbs sampling shrinkage model posteriors with guaranteed convergence rates](ttps://doi.org/10.1214/22-BA1308). <br>
+  *Bayesian Analysis*.
+
+- Holbrook, A., Nishimura, A., Ji, X., and Suchard M. A. (2021) <br>
+  [Computational Statistics \& Data Science in the 21st Century](https://doi.org/10.1002/9781118445112.stat08324) <br>
+  In *Computational Statistics in Data Science*, John Wiley & Sons.
 
 - Nishimura, A., Dunson, D. B., and Lu, J. (2020) <br>
-Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods. <br>
-[*Biometrika*](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asz083/5799014?guestAccessKey=1ac16281-92cf-43a1-9152-1daa47026ca3).
+  [Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asz083/5799014?guestAccessKey=1ac16281-92cf-43a1-9152-1daa47026ca3). <br>
+  *Biometrika*.
 
-- Nishimura, A. and Dunson, D. B. (2020) <br>
-Recycling intermediate steps to improve Hamiltonian Monte Carlo. <br>
-[*Bayesian Analysis*](https://projecteuclid.org/euclid.ba/1572055334).
+## Scientific and public health applications
 
-- Duan, L. L., Young, A. L., Nishimura, A., and Dunson, D. B. (2020) <br>
-Bayesian Constraint Relaxation. <br>
-[*Biometrika*](https://academic.oup.com/biomet/article-abstract/107/1/191/5686747?redirectedFrom=fulltext).
+- Nishimura, A., Xie, J., Kostka, K., Duarte-Salles, T., Bertolín, S. F., Aragón, M., Blacketer, C., Shoaibi, A., DuVall, S. L., Lynch, K., Matheny, M. E., Falconer, T., Morales D. R., Conover, M. M., You, S. C., Pratt, N., Weaver, J., Sena, A. G., Schuemie, M. J., Reps, J., Reich, C., Rijnbeek, P. R., Ryan, P. B., Hripcsak, G., Prieto-Alhambra, D., and Suchard M. A. (2022). <br>
+  [International cohort study indicates no association between alpha-1 blockers and susceptibility to COVID-19 in benign prostatic hyperplasia patients](https://doi.org/10.3389/fphar.2022.945592). <br>
+  *Frontiers in Pharmacology*.
 
-- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2019) <br> Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. <br>
-Preprint at [arXiv:1912.09185](https://arxiv.org/abs/1912.09185).
+- Wang, Z., Bowring, M. G., Rosen, A., Garibaldi, B. T., Zeger, S. L., and Nishimura, A. (2022). <br>
+  [Learning and Predicting from Dynamic Models for COVID-19 Patient Monitoring](http://dx.doi.org/10.1214/22-STS861). <br>
+	*Statistical Science*.
 
-- Nishimura, A. and Suchard, M. A. (2019) <br>
-Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. <br>
-Preprint at [arXiv:1911.0216](https://arxiv.org/abs/1911.02160).
+- Zhang, Z., Nishimura, A., Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2021) <br>
+  [Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models](https://doi.org/10.1214/20-AOAS1394). <br>
+  *Annals of Applied Statistics*.
 
-- Nishimura, A. and Suchard, M. A. (2018) <br> Prior-preconditioned conjugate gradient for accelerated Gibbs sampling in "large n & large p" sparse Bayesian logistic regression models. <br>
-Preprint at [arXiv:1810.12437](https://arxiv.org/abs/1810.12437)
+## Latest works in preprint
 
-- Yang, H., Nishimura, A., and Lu, Q. (2017) <br>
-Bayesian heteroscedastic matrix factorization for conversion rate prediction. <br>
-[26th ACM International Conference on Information and Knowledge Management (CIKM 2017)](https://doi.org/10.1145/3132847.3133076)
-
-- Nishimura, A. and Dunson, D. B. (2016) <br>
-Variable trajectory length compressible Hamiltonian Monte Carlo. <br>
-Preprint at [arXiv:1604.00889](https://arxiv.org/abs/1604.00889).
-
-- Nishimura, A. and Dunson, D. B. (2016) <br>
-Geometrically tempered Hamiltonian Monte Carlo. <br>
-Preprint at [arXiv:1604.00872](https://arxiv.org/abs/1604.00872).
+- Nishimura, A., Zhang, Z., and Suchard, M. A. (2021). <br>
+  [Hamiltonian zigzag sampler got more momentum than its Markovian counterpart: Equivalence of two zigzags under a momentum refreshment limit](https://arxiv.org/abs/2104.07694).
