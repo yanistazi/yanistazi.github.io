@@ -6,6 +6,10 @@ author_profile: true
 
 ## Publications
 
+- Y. Tazi et al. (2022) <br> 
+  [Towards an objective characterization of facial movements using self-supervised models](https://arxiv.org/abs/2211.08279). <br>
+  In *Arxiv*.
+
 - Y. Tazi et al. (2022) <br>
   [Unified classification and risk stratification in AML](https://www.nature.com/articles/s41467-022-32103-8). <br>
   In *Nature*.
@@ -15,15 +19,9 @@ author_profile: true
   In *Clinical Cancer Research*.
 
 - P. Khosravi , ..., Y. Tazi et al. (2022) <br> 
- [Prediction of neoadjuvant treatment outcomes with multimodal data integration in breast cancer](https://aacrjournals.org/cancerres/article/82/12_Supplement/1928/701533)
+ [Prediction of neoadjuvant treatment outcomes with multimodal data integration in breast cancer](https://aacrjournals.org/cancerres/article/82/12_Supplement/1928/701533). <br>
   In *Cancer Research*.
   
-## Preprint
-
-- Y. Tazi et al. (2022) <br> 
-  [Towards an objective characterization of facial movements using self-supervised models](https://arxiv.org/abs/2211.08279). <br>
-  In *Arxiv*.
-
 ## Books
 
 - P. Aimé, J.Grünbeck, Y. Tazi. (2018) <br>
@@ -42,9 +40,9 @@ In *European Hematology Association*
 
 ## In the News
 
-- <br> [Acute Leukemias](https://ashpublications.org/ashclinicalnews/news/6513/AML-Framework-IDs-16-Subgroups-3-Risk-Strata?searchresult=1): AML Framework IDs 16 Subgroups, 3 Risk Strata. <br> 
+- [Acute Leukemias](https://ashpublications.org/ashclinicalnews/news/6513/AML-Framework-IDs-16-Subgroups-3-Risk-Strata?searchresult=1): AML Framework IDs 16 Subgroups, 3 Risk Strata. 
 
-- <br> [AML Hub](https://aml-hub.com/medical-information/a-proposed-molecular-framework-for-disease-classification-and-risk-stratification-in-aml): A proposed molecular framework for disease classification and risk stratification in AML. <br> 
+- [AML Hub](https://aml-hub.com/medical-information/a-proposed-molecular-framework-for-disease-classification-and-risk-stratification-in-aml): A proposed molecular framework for disease classification and risk stratification in AML.
 
-- <br> [Ash Clinical News](https://ashpublications.org/ashclinicalnews/news/5690/Investigators-Identify-Distinct-Molecular?searchresult=1): Investigators Identify Distinct Molecular Subgroups to Guide Treatment Decisions in AML. <br> 
+- [Ash Clinical News](https://ashpublications.org/ashclinicalnews/news/5690/Investigators-Identify-Distinct-Molecular?searchresult=1): Investigators Identify Distinct Molecular Subgroups to Guide Treatment Decisions in AML. 
       
