@@ -82,7 +82,7 @@ author:
   name             : "Yanis Tazi"
   avatar           : "yanis_tazi.jpg"
   bio              : "Tri-Institutional PhD & MBA Candidate"
-  email            : "yat4003@med.cornell.edu" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : #"yat4003@med.cornell.edu" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "New York City, NY"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yanistazi/"
+  linkedin         : "yanistazi/"
   orcid            : "https://orcid.org/0000-0002-1595-9631"
   pinterest        :
   soundcloud       :
