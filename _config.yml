@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Yanis Tazi"
-subtitle                 : "(Bayesian) Statistician / Public Health Data Scientist"
+subtitle                 : "PhD+MBA: AI | Healthcare | Neuroscience"
 title_separator          : "-"
 name                     : &name "Yanis Tazi"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ author:
   name             : "Yanis Tazi"
   avatar           : "yanis_tazi.jpg"
   bio              : "Tri-Institutional PhD & MBA Candidate"
-  email            : "yt1600@stern.nyu.edu" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            :  # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "New York City, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AvmI2ZcAAAAJ"
-  email            :
+  email            : "yt1600@stern.nyu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Yanis-Tazi"
   uri              :
   bitbucket        :
