@@ -14,7 +14,7 @@ author_profile: true
   [Unified classification and risk stratification in AML](https://www.nature.com/articles/s41467-022-32103-8). <br>
   In *Nature*.
 
-- K. Bolton&#185, ..., Y. Tazi&#185 et al. (2022) <br>
+- K. Bolton¹, ..., Y. Tazi¹ et al. (2022) <br>
   [Molecular subclasses of clear cell ovarian carcinoma](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-21-3817/706955/Molecular-subclasses-of-clear-cell-ovarian). <br>
   In *Clinical Cancer Research*.
 
