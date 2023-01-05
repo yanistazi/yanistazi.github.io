@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Akihiko Nishimura"
+title                    : "Homepage of Yanis Tazi"
 subtitle                 : "(Bayesian) Statistician / Public Health Data Scientist"
 title_separator          : "-"
-name                     : &name "Akihiko (Aki) Nishimura"
+name                     : &name "Yanis Tazi"
 description              : &description "personal description"
 url                      : https://aki-nishimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aki-nishimura/aki-nishimura.github.io"
+repository               : "yanistazi/yanist.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,16 +79,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akihiko (Aki) Nishimura"
+  name             : "Yanis Tazi"
   avatar           : "aki_nishimura.jpg"
-  bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
+  bio              : "Tri-Institutional PhD & MBA Candidate"
   email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
-  location         : "Baltimore, MD"
+  location         : "New York City, NY"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AvmI2ZcAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yanis-Tazi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aki-nishimura"
+  github           : "yanistazi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6932-2513"
+  linkedin         :"https://www.linkedin.com/in/yanistazi/"
+  orcid            : "https://orcid.org/0000-0002-1595-9631"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
