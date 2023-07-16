@@ -1,10 +1,4 @@
 ---
-title: "Resume"
-permalink: /Resume/
-author_profile: true
----
-
----
 permalink: /resume/
 title: "Resume"
 excerpt: "Resume"
