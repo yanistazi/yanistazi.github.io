@@ -1,7 +1,7 @@
 ---
-title: "Teaching"
+title: "Resume
 permalink: /Resume/
 author_profile: true
 ---
 
-[Resume](https://docs.google.com/document/d/1d-mS-WSfaFHtv31F-Ur0VXRHY21Krxtx0CVf2Ol0usA/edit?usp=drive_link)
+[Resume](https://drive.google.com/file/d/1K4VcRIoruyQEkFlAdOSD9q7wHPUHYsDK/view?usp=sharing)
