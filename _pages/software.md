@@ -5,22 +5,36 @@ excerpt: "Software & Code"
 author_profile: true
 ---
 
-## Software
-- [bayesbridge v0.2](https://github.com/OHDSI/bayes-bridge)&nbsp; (with [documentation](https://bayes-bridge.readthedocs.io/en/latest/))
-  <br> Python package for Bayesian sparse regression based on the Bayesian bridge priors. The package implements the standard (Polya-Gamma augmented) Gibbs sampler as well as the CG-accelerated sampler of [Nishimura & Suchard (2022)](https://doi.org/10.1080/01621459.2022.2057859).
+## Software 
 
-- [CausalSurvival](https://github.com/nishimura-zeger-lab/CausalSurvival) <br>
-  R package implementing state-of-the-art doubly robust methods for estimating counterfactual survival curves, including augmented inverse probability weighting and targeted maximum likelihood estimation. More traditional procedures such as inverse probability weighting and stratified Cox model are also included.
+- [Multi-State Markov Model to predict disease evolution in Cancer Research](https://www.aml-risk-model.com/) <br>
+  [Tazi et al. (2022), Nature ](https://www.nature.com/articles/s41467-022-32103-8).
 
 ## Code
-- [Hoseshoe scale sampler](https://github.com/aki-nishimura/horseshoe-scale-sampler) <br>
-  Efficient rejection sampler for updating the local scale parameter in Gibbs sampling posterior distributions under (regularized) horseshoe models. Details and theoretical analysis can be found in the appendix of [Nishimura and Suchard (2022)](https://doi.org/10.1214/22-BA1308).
+- [Neurobiological insights from neural networks trained on facial recognition tasks](https://github.com/yanistazi/Identity_Expression_Specialization) <br>
+  Emergence of Interpretable Functional Specialization in Neural Networks Trained on Facial Expression and Identity Recognition
+  [Tazi et al. (2023), ICML WCB]().
 
-- [Discontinuous Hamiltonian Monte Carlo](https://github.com/aki-nishimura/discontinuous-hmc)
-  <br> Python module implementing discontinuous Hamiltonian Monte Carlo of [Nishimura et. al. (2022)](https://doi.org/10.1093/biomet/asz083). Other codes used in the paper are also provided, including the modules to efficiently compute the log-likelihoods and their gradients of the Jolly-Seber and PAC Bayesian inference.
+- [Self-Supervised Person-Specific Models](https://github.com/yanistazi/PSM_release) <br>
+  Objective characterization of an individual’s facial movements using Self-Supervised Learning for Person-Specific-Models
+  [Tazi et al. (2022)](https://arxiv.org/abs/2211.08279).
 
-- [Probabilistic importance weighted matrix factorization](https://github.com/aki-nishimura/probabilistic-matrix-factorization)
-  <br> Python module for the Bayesian heteroscedastic matrix factorization model as described in [Yang et. al. (2017)](https://www.researchgate.net/publication/320883956_Bayesian_Heteroscedastic_Matrix_Factorization_for_Conversion_Rate_Prediction).
+- [Unsupervised, Statistical Learning and Multi-State Markov Models for Cancer Research](https://github.com/papaemmelab/Tazi_NatureC_AML) <br>
+  Unified classification and risk-stratification in Acute Myeloid Leukemia.
+  [Tazi et al. (2022), Nature ](https://www.nature.com/articles/s41467-022-32103-8).
 
-- [(Recycled) No-U-Turn sampler](https://github.com/aki-nishimura/NUTS-matlab)
-  <br> Matlab functions for the No-U-Turn sampler of [Hoffman & Gelman (2014)](http://www.jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf) as well as its improvement via the recycling algorithm of [Nishimura & Dunson (2016)](https://arxiv.org/abs/1511.06925).
+- [Graph Neural Networks for Drug Discovery](https://github.com/yanistazi/Graph_Neural_Net_Protein-Protein-Complexes) <br>
+  Graph Neural Network + Attention mechanism to predict scoring functions (i-RMSD) for protein complexes and decoys.
+
+- [Multiple Instance Learning for Breast Cancer Metastases](https://github.com/yanistazi/MIL_CNN_RNN_Imaging) <br>
+  Multiple Instance Learning with CNN embedding and RNN final classification by information integration using tile embedding.
+  
+- [Space and Relational Memory with Tolman Eichenbaum Machine](https://github.com/yanistazi/Flexible_VR_Tolman-Eichenbaum-Machine) <br>
+  Building on Whittington et al's work to evaluate the relationships between hippocampal cells, LEC and MEC, place cells and grid cells across environments 
+  using clustering techniques.
+
+- [Deep CNNs as a Cloud Service](https://github.com/yanistazi/DeepCNN-as-a-Service) <br>
+Selection and Optimization of Deep Convolutional Neural Networks as a Cloud Service for costs reductions.
+
+- [CNN for Breast Cancer and Lesion Classification](https://github.com/yanistazi/DeepCNN_Breast_MRI) <br>
+  
