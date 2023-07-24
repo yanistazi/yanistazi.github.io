@@ -13,7 +13,7 @@ author_profile: true
 ## Code
 - [Neurobiological insights from neural networks trained on facial recognition tasks](https://github.com/yanistazi/Identity_Expression_Specialization) <br>
   Emergence of Interpretable Functional Specialization in Neural Networks Trained on Facial Expression and Identity Recognition
-  [Tazi et al. (2023), ICML WCB]().
+  [Tazi et al. (2023), ICML WCB](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf).
 
 - [Self-Supervised Person-Specific Models](https://github.com/yanistazi/PSM_release) <br>
   Objective characterization of an individual’s facial movements using Self-Supervised Learning for Person-Specific-Models
