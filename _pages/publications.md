@@ -6,6 +6,10 @@ author_profile: true
 
 ## Publications
 
+- Y. Tazi et al. (2023) <br> 
+  [Emergence of Interpretable Functional Specialization in Neural Networks Trained on Facial Expression and Identity Recognition](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf). <br>
+  In *ICML CompBio*.
+
 - Y. Tazi et al. (2022) <br> 
   [Towards an objective characterization of facial movements using self-supervised models](https://arxiv.org/abs/2211.08279). <br>
   In *Arxiv*.
