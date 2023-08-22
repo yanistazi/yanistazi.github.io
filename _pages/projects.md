@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /projects/
 title: "Software & Code"
 excerpt: "Software & Code"
 author_profile: true
