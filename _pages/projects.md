@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
-title: "Software & Code"
-excerpt: "Software & Code"
+title: "Projects"
+excerpt: "Projects"
 author_profile: true
 ---
 
