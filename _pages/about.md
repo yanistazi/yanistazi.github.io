@@ -10,7 +10,9 @@ redirect_from:
 
 Hi Everyone,
 
-I am currently a PhD Candidate in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and I am an [MBA Candidate at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile).
+I am a Data Scientist at Johnson & Johnson in MultiModal AI for Cancer Research.
+
+I have recently finished my PhD in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and my [MBA at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile).
 
 As a published scientist, my passion for advancing the fields of computational medicine, neuroscience, and Artificial Intelligence has led me on a unique journey. I've lived in every continent, navigating various cultures, and I'm fluent in four languages, which brings a global perspective to my research. Currently, I am pursuing a Tri-Institutional joint PhD and MBA, reflecting my dedication to integrating scientific knowledge with business acumen for innovation in healthcare and technology.
 
