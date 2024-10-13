@@ -10,7 +10,7 @@ redirect_from:
 
 Hi Everyone,
 
-I am a Data Scientist at Johnson & Johnson in MultiModal AI for Cancer Research.
+I am a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
 
 I have recently finished my PhD in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and my [MBA at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile) specializing in Management of Technologies and Operations.
 
