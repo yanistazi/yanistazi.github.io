@@ -5,5 +5,5 @@ excerpt: "Resume"
 author_profile: true
 ---
 
-## [Resume](https://drive.google.com/file/d/1mfLdYu3WMN5LgSmeHt2RdconDkKlKPLE/view?usp=drive_link)
+## [Resume](https://drive.google.com/file/d/1w9MUzx3qNShM7T7Qw_T974ytcmliVgUh/view?usp=sharing)
 
