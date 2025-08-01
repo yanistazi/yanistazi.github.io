@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-                                                      <em>(Updated July 2025)<em>
+ <em>(Updated July 2025)<em>
 
 Hi Everyone,
 
