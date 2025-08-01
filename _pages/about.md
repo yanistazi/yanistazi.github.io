@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<em>(Updated July 2025)<em>
+                                                      <em>(Updated July 2025)<em>
+
 Hi Everyone,
 
 I am founding Principal ML Engineer at AminoChain where I lead the AI strategy and implement AI Agentic solutions in the biomedical space. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
