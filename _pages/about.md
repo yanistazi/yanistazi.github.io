@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<em>(Updated July 2025)<em>
 Hi Everyone,
 
-I am a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
+I am founding Principal ML Engineer at AminoChain where I lead the AI strategy and implement AI Agentic solutions in the biomedical space. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
 
-I have recently finished my PhD in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and my [MBA at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile) specializing in Management of Technologies and Operations.
+Lately, I have been focus on GenAI and AI Agents and have delivered Agentic products to improve customer experience in our healthcare marketplace.
+
+I have completed my PhD in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and my [MBA at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile) specializing in Management of Technologies and Operations.
 
 As a published scientist, my passion for advancing the fields of computational medicine, neuroscience, and Artificial Intelligence has led me on a unique journey. I've lived in every continent, navigating various cultures, and I'm fluent in four languages, which brings a global perspective to my research. Currently, I am pursuing a Tri-Institutional joint PhD and MBA, reflecting my dedication to integrating scientific knowledge with business acumen for innovation in healthcare and technology.
 
