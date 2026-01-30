@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <em>(Updated July 2025)<em>
+ <em>(Updated Jan 2026)<em>
 
 Hi Everyone,
 
-I am founding Principal ML Engineer at AminoChain where I lead the AI strategy and implement AI Agentic solutions in the biomedical space. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
+I am Founding, Principal ML Engineer and Head of Compliance at AminoChain where I oversee the AI strategy and implement end-to-end secure AI Agentic solutions to streamline biomedical research in the biomedical space. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
 
-Lately, I have been focus on GenAI and AI Agents and have delivered Agentic products to improve customer experience in our healthcare marketplace.
+Lately, I have been focus on GenAI, AI Agents, Security and Compliance to deliver products that can be used safely by our customers.
 
 I have completed my PhD in the [Tri-Institutional CBM PhD Program between Cornell, Memorial Sloan Kettering Cancer Center and Rockefeller](https://compbio.triiprograms.org/) specializing in AI,Computational Medicine and Neuroscience and my [MBA at NYU Stern](https://www.stern.nyu.edu/programs-admissions/executive-mba-nyc/program-details/class-profile) specializing in Management of Technologies and Operations.
 
