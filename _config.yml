@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Yanis Tazi"
-subtitle                 : "PhD ,MBA | Agents | AI | Healthcare | Neuroscience"
+subtitle                 : "PhD | MBA | Agents | AI | Healthcare | Neuroscience"
 title_separator          : "-"
 name                     : &name "Yanis Tazi, PhD, MBA"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Yanis Tazi"
   avatar           : "yanis_tazi.jpg"
-  bio              : "Founding Principal ML Engineer - PhD, MBA"
+  bio              : "Founding, Principal ML Engineer | Head of Compliance - PhD, MBA"
   email            :  # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "New York City, NY"
   employer         :
