@@ -5,36 +5,41 @@ excerpt: "Projects"
 author_profile: true
 ---
 
-## Software 
+This page highlights selected projects across healthcare AI, computational neuroscience, and machine learning systems.
 
-- [Multi-State Markov Model to predict disease evolution in Cancer Research](https://www.aml-risk-model.com/) <br>
-  [Tazi et al. (2022), Nature ](https://www.nature.com/articles/s41467-022-32103-8).
+## Featured projects
 
-## Code
-- [Neurobiological insights from neural networks trained on facial recognition tasks](https://github.com/yanistazi/Identity_Expression_Specialization) <br>
-  Emergence of Interpretable Functional Specialization in Neural Networks Trained on Facial Expression and Identity Recognition
-  [Tazi et al. (2023), ICML WCB](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf).
+### 1) AML precision medicine and multistate risk modeling
+- **Paper:** [Unified classification and risk-stratification in Acute Myeloid Leukemia (Nature Communications, 2022)](https://www.nature.com/articles/s41467-022-32103-8)
+- **Code:** [papaemmelab/Tazi_NatureC_AML](https://github.com/papaemmelab/Tazi_NatureC_AML)
+- **Clinical tool:** [AML Risk Model](https://www.aml-risk-model.com/)
+- **Summary:** Built molecular classification and multistate risk modeling framework to support prognosis and treatment decisions.
 
-- [Self-Supervised Person-Specific Models](https://github.com/yanistazi/PSM_release) <br>
-  Objective characterization of an individual’s facial movements using Self-Supervised Learning for Person-Specific-Models
-  [Tazi et al. (2022)](https://arxiv.org/abs/2211.08279).
+### 2) Person-Specific Models for facial movement representation
+- **Paper:** [Towards an objective characterization of an individual’s facial movements (2022)](https://arxiv.org/abs/2211.08279)
+- **Code:** [yanistazi/PSM_release](https://github.com/yanistazi/PSM_release)
+- **Summary:** Self-supervised framework to learn identity-aware and interpretable facial movement features.
 
-- [Unsupervised, Statistical Learning and Multi-State Markov Models for Cancer Research](https://github.com/papaemmelab/Tazi_NatureC_AML) <br>
-  Unified classification and risk-stratification in Acute Myeloid Leukemia.
-  [Tazi et al. (2022), Nature ](https://www.nature.com/articles/s41467-022-32103-8).
+### 3) Functional specialization in neural networks for face processing
+- **Paper:** [Emergence of Interpretable Functional Specialization in Neural Networks (ICML CompBio Workshop, 2023)](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf)
+- **Code:** [yanistazi/Identity_Expression_Specialization](https://github.com/yanistazi/Identity_Expression_Specialization)
+- **Summary:** Studied how specialized subnetworks emerge for identity vs. expression recognition.
 
-- [Graph Neural Networks for Drug Discovery](https://github.com/yanistazi/Graph_Neural_Net_Protein-Protein-Complexes) <br>
-  Graph Neural Network + Attention mechanism to predict scoring functions (i-RMSD) for protein complexes and decoys.
+### 4) GNNs for protein-protein complex quality prediction
+- **Code:** [yanistazi/Graph_Neural_Net_Protein-Protein-Complexes](https://github.com/yanistazi/Graph_Neural_Net_Protein-Protein-Complexes)
+- **Summary:** Graph neural network models with attention mechanisms for structural scoring of protein complexes.
 
-- [Multiple Instance Learning for Breast Cancer Metastases](https://github.com/yanistazi/MIL_CNN_RNN_Imaging) <br>
-  Multiple Instance Learning with CNN embedding and RNN final classification by information integration using tile embedding.
-  
-- [Space and Relational Memory with Tolman Eichenbaum Machine](https://github.com/yanistazi/Flexible_VR_Tolman-Eichenbaum-Machine) <br>
-  Building on Whittington et al's work to evaluate the relationships between hippocampal cells, LEC and MEC, place cells and grid cells across environments 
-  using clustering techniques.
+## Additional selected repositories
 
-- [Deep CNNs as a Cloud Service](https://github.com/yanistazi/DeepCNN-as-a-Service) <br>
-Selection and Optimization of Deep Convolutional Neural Networks as a Cloud Service for costs reductions.
+- [Flexible_VR_Tolman-Eichenbaum-Machine](https://github.com/yanistazi/Flexible_VR_Tolman-Eichenbaum-Machine) — virtual environment extensions for TEM and neural cell analyses.
+- [MIL_CNN_RNN_Imaging](https://github.com/yanistazi/MIL_CNN_RNN_Imaging) — multiple instance learning pipeline for breast cancer imaging.
+- [DeepCNN_Breast_MRI](https://github.com/yanistazi/DeepCNN_Breast_MRI) — lesion classification workflows for breast MRI challenges.
+- [DeepCNN-as-a-Service](https://github.com/yanistazi/DeepCNN-as-a-Service) — model selection and cost-aware deep CNN serving exploration.
 
-- [CNN for Breast Cancer and Lesion Classification](https://github.com/yanistazi/DeepCNN_Breast_MRI) <br>
-  
+## Current focus
+
+I’m currently most interested in:
+
+- Secure agentic AI for biomedical operations
+- Practical AI governance for regulated environments
+- Multimodal foundation models for clinical and translational research
