@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <em>(Updated Jan 2026)<em>
+ <em>(Updated July 2026)<em>
 
 Hi Everyone,
 
-I am Founding, Principal ML Engineer and Head of Compliance at AminoChain where I oversee the AI strategy and implement end-to-end secure AI Agentic solutions to streamline biomedical research. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
+I am in the Applied AI and Evals Team at OpenAI.
+
+Previously, I was Founding, Principal ML Engineer and Head of Compliance at AminoChain where I oversee the AI strategy and implement end-to-end secure AI Agentic solutions to streamline biomedical research. Before that, I was a Senior Data Scientist at Johnson & Johnson in genAI and MultiModal AI for Cancer Research.
 
 Lately, I have been focus on GenAI, AI Agents, Security and Compliance to deliver products that can be used safely by our customers.
 
