@@ -1,7 +1,7 @@
 ---
 permalink: /resume/
-title: "Resume"
-excerpt: "Resume"
+title: "Yanis Tazi Resume"
+excerpt: "Yanis Tazi Resume"
 author_profile: true
 ---
 
